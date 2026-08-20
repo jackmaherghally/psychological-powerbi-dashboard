@@ -1,4 +1,4 @@
-<img width="1280" height="1024" alt="1000114039" src="https://github.com/user-attachments/assets/b2e146ae-a89d-464a-98e7-b469ec96c70f" />
+Screenshot (3).png.
 # Power BI Learning Journey
 
 This repository is dedicated to my practice files, exercises, and small projects as I learn Microsoft Power BI.
