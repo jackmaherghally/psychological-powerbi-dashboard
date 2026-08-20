@@ -1,3 +1,4 @@
+<img width="1280" height="1024" alt="1000114039" src="https://github.com/user-attachments/assets/b2e146ae-a89d-464a-98e7-b469ec96c70f" />
 # Power BI Learning Journey
 
 This repository is dedicated to my practice files, exercises, and small projects as I learn Microsoft Power BI.
@@ -7,8 +8,9 @@ This repository is dedicated to my practice files, exercises, and small projects
 This project is an interactive Sales Performance Dashboard created using **Power BI**. It provides a clear overview of sales data, allowing for deeper analysis of business performance.
 
 ### 🚀 Project Overview
-* The dashboard aims to track and visualize sales data to help identify trends and patterns.
+* The dashboard aims to track and visualize sales data to help identify trends and patterns. 
 * It transforms raw data into actionable insights for better decision-making.
+![Dashboard Preview](Screenshot (1).png)
 
 ### 📊 Key Features
 * **Sales Analysis:** Visualizes the total sum of amounts by category.
