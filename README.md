@@ -10,8 +10,8 @@ This project is an interactive Sales Performance Dashboard created using **Power
 ### 🚀 Project Overview
 * The dashboard aims to track and visualize sales data to help identify trends and patterns. 
 * It transforms raw data into actionable insights for better decision-making.
-![Dashboard Preview](Screenshot (3<img width="1138" height="731" alt="1000114226" src="https://github.com/user-attachments/assets/94443ca2-047b-48a6-b622-b67ea4876e11" />
-).png)
+![Dashboard Preview](Screenshot%20(3).png)
+
 
 ### 📊 Key Features
 * **Sales Analysis:** Visualizes the total sum of amounts by category.
